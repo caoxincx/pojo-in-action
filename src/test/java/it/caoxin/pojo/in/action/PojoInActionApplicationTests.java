@@ -9,5 +9,4 @@ public class PojoInActionApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
